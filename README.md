@@ -17,3 +17,7 @@ Para el clasificador Random Forest, obtener el porcentaje de error y el índice 
 utilizando ten fold cross-validation. Comentar el resultado y compararlo con los
 anteriores.
 
+Entregar un único comprimido con un .Rmd (Markdown) y el correspondiente pdf con
+el código R y los comentarios pertinentes en cada apartado. Incluir aquellas figuras relevantes
+como errores frente a valores de los parámetros. Incluir también resultados y tablas relevantes.
+
